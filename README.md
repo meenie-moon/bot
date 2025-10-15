@@ -29,23 +29,7 @@ Dijalankan menggunakan Python dan `pyTelegramBotAPI`.
    ```bash
    python main.py
    ```
-
-## 🧩 Struktur Folder
-
-```
-moonbot/
-├── src/
-│   ├── bot.py
-├── config/
-│   ├── settings.py
-├── logs/
-│   ├── bot.log
-├── requirements.txt
-├── main.py
-├── .env.example
-└── README.md
-```
-
+   
 ## 📜 Lisensi
 
 MIT License © 2025 Moon

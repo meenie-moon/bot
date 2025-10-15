@@ -7,7 +7,7 @@ Dijalankan menggunakan Python dan `pyTelegramBotAPI`.
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/meenie-moon/moonbot.git
+   https://github.com/meenie-moon/bot
    cd moonbot
    ```
 

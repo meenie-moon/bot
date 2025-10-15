@@ -4,7 +4,7 @@ import time
 import requests # Pastikan ini ada di requirements.txt jika bot main Anda juga pakai requests
 import threading
 
-BOT_SCRIPT = 'bot.py'
+BOT_SCRIPT = 'src/bot.py'
 KEEPALIVE_URL = "https://api.ipify.org" # Ganti dengan URL yang Anda inginkan
 KEEPALIVE_INTERVAL = 60 * 5 # Ping setiap 5 menit (300 detik)
 
